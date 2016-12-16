@@ -10,6 +10,7 @@ export class Header extends React.Component {
           <li>Experience</li>
           <li>Skills</li>
           <li>Portfolio</li>
+          <li>Test</li>
           <li>Contact</li>
         </ul>
       </div>
